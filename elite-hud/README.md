@@ -2,7 +2,7 @@ My first stab at a custom-designed keyboard. It's for a [61-key VP3 from WASD](h
 
 The design is a retro take on the HUD of sci-fi simulators, specifically [Elite Dangerous](https://en.wikipedia.org/wiki/Elite:_Dangerous).
 
-The font used is [Telegrama raw](http://www.yoworks.com/telegrama/index.html) by [YOworks](http://www.yoworks.com).
+The font used is [Telegrama raw](http://www.yoworks.com/telegrama/index.html) by [YOWorks](http://www.yoworks.com).
 
 ## Preview
 ![elite-hud mock-up](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/elite-hud_mock-up.png?raw=true)
