@@ -2,6 +2,8 @@ My first stab at a custom-designed keyboard. It's a 61-key VP3 from WASD. I adju
 
 The design is a retro take on the HUD of sci-fi simulators, specifically Elite Dangerous.
 
+## Preview
+![elite-hud mock-up](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/elite-hud_mock-up.png?raw=true)
 
 ## Work in progress
 I haven't received the keyboard yet, so this could be total rubbish...
