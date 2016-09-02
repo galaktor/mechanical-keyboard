@@ -8,10 +8,10 @@ The design is a retro take on the HUD of sci-fi simulators, specifically [Elite 
 The font in question is [Telegrama raw](http://www.yoworks.com/telegrama/index.html) by [YOWorks](http://www.yoworks.com).
 
 ## Legends
-![elite-hud legends](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/elite-hud_legends.png?raw=true)
+![legends only](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/legends.png?raw=true)
 
 ## Preview
-![elite-hud mock-up](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/elite-hud_mock-up.png?raw=true)
+![digital preview](https://github.com/galaktor/wasd-keyboard/blob/master/elite-hud/digital-preview.png?raw=true)
 
 ## Work in progress
 I haven't received the actual keyboard yet, so this could be total rubbish...
