@@ -11,7 +11,7 @@ The font in question is [Telegrama raw](http://www.yoworks.com/telegrama/index.h
 
 ## Layout features
 * swapped the `@` and `"` (more UK-ish)
-* dedicated legends for two of the VP3's default layer functions:
+* dedicated legends for some of the VP3's default layer functions:
   * arrow keys on `JIKL` 
   * volume control on `SDF`
   * default layer selector on `M`
